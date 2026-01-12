@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://pin.it/J1wQUrNKZ" alt="Banner.jpg">
-
 ## Hello there 👋,
 
 I am a CSE student.
