@@ -1,3 +1,7 @@
+<img src="banner.jpg" alt="banner.jpg" align =center >
+
+
+
 ## Hello there 👋,
 
 I am a CSE student.
