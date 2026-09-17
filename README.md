@@ -17,4 +17,4 @@ Always experimenting and improving step by step.
 ## My Learnings -
 
 - Python [Python.py] - https://github.com/Piyush-devpy/Python.py
-  
+- MySQL [SQL.sql] - https://github.com/Piyush-devpy/SQL.sql
