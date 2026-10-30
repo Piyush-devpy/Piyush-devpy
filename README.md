@@ -13,6 +13,7 @@ Always experimenting and improving step by step.
 ## Projects -
 - Carify[Frontend] - https://github.com/Piyush-devpy/Carify
 - Discord Bot [Mellow Music] - https://github.com/Piyush-devpy/Music-Bot-Mellow
+- ChatBot [EaseIn] - https://github.com/Piyush-devpy/Ease-In.chatbot
 
 ## My Learnings -
 
